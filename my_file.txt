@@ -1,0 +1,20 @@
+Hello My name is
+Mehwish Tabassum and 
+I am a 
+freshman at 
+Loyola 
+University
+Chicago 
+studying 
+Computer Science with 
+a pre med track.
+Hello My name is 
+Mehwish Tabassum and 
+I am a 
+freshman at
+Loyola
+University
+Chicago
+studying 
+computer science with
+a pre med track.
